@@ -1,3 +1,5 @@
+This is just for exploring the ICBHI 2017 Challenge dataset
+
 ## Downloading dataset
 
 Download the zip file from [here](https://bhichallenge.med.auth.gr/sites/default/files/ICBHI_final_database/ICBHI_final_database.zip) along with [diagnosis labels](https://bhichallenge.med.auth.gr/sites/default/files/ICBHI_final_database/ICBHI_Challenge_diagnosis.txt) and [train/test split](https://bhichallenge.med.auth.gr/sites/default/files/ICBHI_final_database/ICBHI_challenge_train_test.txt) information.
