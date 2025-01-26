@@ -1,0 +1,21 @@
+2025-01-15 12:29:11,463 - INFO - Epoch: 0 | Val Loss: 0.7055, Acc: 0.6408, Bal-Acc: 0.8119
+2025-01-15 12:29:13,255 - INFO - Epoch: 2 | Val Loss: 0.4878, Acc: 0.7848, Bal-Acc: 0.8873
+2025-01-15 12:29:15,028 - INFO - Epoch: 4 | Val Loss: 0.1630, Acc: 0.9531, Bal-Acc: 0.5332
+2025-01-15 12:29:16,802 - INFO - Epoch: 6 | Val Loss: 0.1949, Acc: 0.9223, Bal-Acc: 0.8743
+2025-01-15 12:29:18,542 - INFO - Epoch: 8 | Val Loss: 0.1342, Acc: 0.9595, Bal-Acc: 0.8087
+2025-01-15 12:29:20,295 - INFO - Epoch: 10 | Val Loss: 0.2868, Acc: 0.8916, Bal-Acc: 0.9092
+2025-01-15 12:29:22,049 - INFO - Epoch: 12 | Val Loss: 0.1174, Acc: 0.9628, Bal-Acc: 0.7764
+2025-01-15 12:29:23,840 - INFO - Epoch: 14 | Val Loss: 0.2006, Acc: 0.9369, Bal-Acc: 0.8479
+2025-01-15 12:29:25,575 - INFO - Epoch: 16 | Val Loss: 0.1581, Acc: 0.9709, Bal-Acc: 0.7636
+2025-01-15 12:29:27,341 - INFO - Epoch: 18 | Val Loss: 0.1311, Acc: 0.9660, Bal-Acc: 0.7781
+2025-01-15 12:29:29,090 - INFO - Epoch: 20 | Val Loss: 0.1981, Acc: 0.9515, Bal-Acc: 0.9065
+2025-01-15 12:29:30,839 - INFO - Epoch: 22 | Val Loss: 0.2441, Acc: 0.9304, Bal-Acc: 0.9125
+2025-01-15 12:29:32,583 - INFO - Epoch: 24 | Val Loss: 0.4112, Acc: 0.9029, Bal-Acc: 0.9321
+2025-01-15 12:29:34,332 - INFO - Epoch: 26 | Val Loss: 0.1588, Acc: 0.9676, Bal-Acc: 0.8470
+2025-01-15 12:29:36,074 - INFO - Epoch: 28 | Val Loss: 0.2054, Acc: 0.9628, Bal-Acc: 0.8444
+2025-01-15 12:29:37,848 - INFO - Epoch: 30 | Val Loss: 0.1472, Acc: 0.9725, Bal-Acc: 0.8495
+2025-01-15 12:29:39,592 - INFO - Epoch: 32 | Val Loss: 0.2024, Acc: 0.9644, Bal-Acc: 0.8623
+2025-01-15 12:29:39,593 - INFO - Early stopping triggered
+2025-01-15 12:29:39,641 - INFO - Test Loss: 0.4992, Test Acc: 0.9508, Test Bal-Acc: 0.6526
+2025-01-15 12:29:39,641 - INFO - Time per sample: 0.0001 seconds in test set
+2025-01-15 12:29:39,780 - INFO - Confusion matrix saved at mfcc_custom_saved_models/confusion_matrix.png

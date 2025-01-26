@@ -1,0 +1,7 @@
+librosa==0.10.2
+pandas==2.0.3
+tqdm
+pyyaml
+matplotlib==3.7.5
+seaborn==0.13.2
+tensorboard==2.14.0

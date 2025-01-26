@@ -1,0 +1,5 @@
+2025-01-15 12:30:21,117 - INFO - Test Loss: 0.2563, Test Acc: 0.9480, Test Bal-Acc: 0.6407
+2025-01-15 12:30:21,117 - INFO - Precision: 0.9539, Recall: 0.9925, Specificity: 0.2889
+2025-01-15 12:30:21,117 - INFO - F1-Score: 0.9728, AUC: 0.6407
+2025-01-15 12:30:21,119 - INFO - Time per sample: 0.0016 seconds in test set
+2025-01-15 12:30:21,260 - INFO - Confusion matrix saved at heldout_test_custom_results/confusion_matrix.png
